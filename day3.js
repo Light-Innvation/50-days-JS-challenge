@@ -6,3 +6,12 @@ function isPrime(num){
     }
     return true;
 }
+let count = 0;
+let number = 2;
+while ( count < 100){
+    if(isPrime(number)){
+        console.log(number);
+        count ++;
+    }
+    number ++;
+}
