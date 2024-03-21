@@ -12,3 +12,4 @@ function getPositiveNumber(number){
 }
 const number = [1,2,3,4,5,6,-1,-2,-3,-4,-5,-6]
 console.log("The positive numbers are ",getPositiveNumber(number))
+//create a function that will recieve  an array of numbers as argument  andreturn an array conatining only the postive number

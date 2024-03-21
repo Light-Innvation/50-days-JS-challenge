@@ -5,5 +5,6 @@ for (let i = 0; i < 11; i++) {
         console.log(`Multiplicatio of ${i} * ${ j} = ${i * j}`)
     }
     console.log("/n")
+    //multiplication tale of a given number
     
 }

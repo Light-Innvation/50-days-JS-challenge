@@ -8,3 +8,5 @@ function firstFibonnaci(n){
 
 }
 console.log(firstFibonnaci(10));
+
+// create a function that will find the nth Fibonacci number  without using recursion 

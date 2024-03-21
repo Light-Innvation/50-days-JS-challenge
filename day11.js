@@ -5,3 +5,4 @@ for (let index = 0; index < number.length; index++) {
     
 }
 console.log("the sum of nmbers is ",sum)
+//calculate the sum of number in an array of umber

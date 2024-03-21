@@ -10,3 +10,4 @@ var average = sum / total_number;
 
 console.log("the sum of nmbers is ",sum)
 console.log("the average is ",average);
+// calculate the average number in an array of numbers

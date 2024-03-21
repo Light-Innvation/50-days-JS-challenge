@@ -15,3 +15,4 @@ while ( count < 100){
     }
     number ++;
 }
+// function that display prim number from 1 to 100

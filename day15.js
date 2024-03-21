@@ -8,3 +8,4 @@ function fib(n) {
    
 }
 console.log(fib(10));
+// create a function that will find the nth Fibonacci number using recursion 
