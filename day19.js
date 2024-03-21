@@ -1,4 +1,4 @@
- // rotate an array to the left position
+ // rotate an array to the left 1 position
  function rotateLeft(arr){
      if (arr.length <= 1) {
          return arr;
